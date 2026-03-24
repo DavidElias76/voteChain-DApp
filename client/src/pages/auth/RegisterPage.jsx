@@ -37,7 +37,7 @@ export default function RegisterPage() {
             <Vote size={22} className="text-white" />
           </div>
           <h1 className="text-2xl font-bold text-white">Create Account</h1>
-          <p className="text-slate-400 text-sm mt-1">Join VoteChain today</p>
+          <p className="text-slate-400 text-sm mt-1">Join VoteSphere today</p>
         </div>
         <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-8 shadow-2xl">
           <form onSubmit={handleSubmit} className="space-y-4">

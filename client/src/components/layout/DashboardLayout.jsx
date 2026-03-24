@@ -43,7 +43,7 @@ export default function DashboardLayout() {
             <div className="w-7 h-7 bg-indigo-600 rounded-lg flex items-center justify-center">
               <Vote size={14} className="text-white" />
             </div>
-            <span className="font-bold text-slate-900 text-sm">VoteChain</span>
+            <span className="font-bold text-slate-900 text-sm">VoteSphere</span>
           </div>
         </div>
 
