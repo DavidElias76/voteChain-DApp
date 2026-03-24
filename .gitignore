@@ -1,0 +1,11 @@
+node_modules/
+.env
+dist/
+build/
+*.local
+.DS_Store
+blockchain/artifacts/
+blockchain/cache/
+blockchain/typechain-types/
+client/src/contracts/Voting.json
+server/config/contract.json
