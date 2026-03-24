@@ -6,7 +6,7 @@ import api from "../../services/api";
 import { useWallet } from "../../context/WalletContext";
 import { useAuth } from "../../context/AuthContext";
 import toast from "react-hot-toast";
-import VotingABI from "../../contracts/Voting.json";
+import VotingABI from "../../../src/contracts/Voting.json";
 
 export default function VotingPage() {
   const { id } = useParams();
