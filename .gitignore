@@ -9,3 +9,4 @@ blockchain/cache/
 blockchain/typechain-types/
 # client/src/contracts/Voting.json
 # server/config/contract.json
+.gitignore/
