@@ -1,4 +1,4 @@
-# VoteChain — Decentralized Voting System
+# VoteSphere — Decentralized Voting System
 
 A production-grade, full-stack decentralized voting DApp built with React, Node.js, MySQL, and Ethereum blockchain.
 
@@ -226,4 +226,4 @@ Key functions:
 
 ## License
 
-MIT
+kim_codes
